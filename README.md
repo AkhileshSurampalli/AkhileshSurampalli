@@ -16,11 +16,13 @@ I am experienced in building Machine Learning systems that work on real hardware
 **MLOps Vehicle Insurance Prediction Pipeline**
 
 End-to-end ML pipeline on a 381,000-row dataset covering the full AI lifecycle: MongoDB ingestion → data validation → feature engineering → model training → MLflow experiment tracking → automated AWS deployment (ECR + EC2) via GitHub Actions CI/CD and Docker. FastAPI backend serving the model as a production REST API.
+
 **Tech Stack: Python FastAPI AWS Docker MLflow MongoDB GitHub Actions**
 
 **Fruit Instance Segmentation — CV Perception Pipeline**
 
 Computer vision pipeline for separating touching and overlapping objects using OpenCV watershed segmentation and distance transform. Benchmarking classical CV against deep learning instance segmentation (Mask R-CNN) for robustness under occlusion — directly relevant to production quality-control and scanning problems.
+
 **Tech Stack: Python OpenCV Mask R-CNN Computer Vision**
 
 **MLflow Experiment Tracking**
