@@ -1,10 +1,10 @@
 ## Hi I am Akhilesh Surampalli 👋
-ML Engineer | Sensor & Telemetry Data | MLOps 
+ML Engineer | Sensor & Telemetry Data | Generative AI | MLOps
 
 I am experienced in building Machine Learning systems that work on real hardware, with real data and not just in notebooks. My focus is on anomaly detection, spatio-temporal modelling, end end-to-end ML pipelines from raw data ingestion to live deployment.
 
 
-- 🔭 I have an M.Sc. in  Electrical Communication Engineering from the Universität Kassel, Germany and a GPA of 1.79.
+- 🔭 I have an M.Sc. in  Electrical Communication Engineering from the Universität Kassel, Germany and a GPA of 2.0.
 - 🤖 Shipped a real-time anomaly detection system to a live autonomous robot (ROS2 · Raspberry Pi edge deployment)
 - 🧠 Designed a CNN-BiLSTM + global attention model in PyTorch for multi-device IMU sensor data (PR-AUC 0.76 on unseen participants)
 - ☁️ Built end-to-end ML pipelines on AWS with Docker, FastAPI, GitHub Actions CI/CD, and MLflow
@@ -18,6 +18,10 @@ I am experienced in building Machine Learning systems that work on real hardware
 End-to-end ML pipeline on a 381,000-row dataset covering the full AI lifecycle: MongoDB ingestion → data validation → feature engineering → model training → MLflow experiment tracking → automated AWS deployment (ECR + EC2) via GitHub Actions CI/CD and Docker. FastAPI backend serving the model as a production REST API.
 
 **Tech Stack: Python FastAPI AWS Docker MLflow MongoDB GitHub Actions**
+
+**AI Page Assistant (RAG System)**
+
+A cloud based RAG application on AWS EC2 for automatic summarisation of the webpage content and context-aware question answering system. Implemented the backend using LangChain, OpenAI Embeddings, and FAISS for efficient document search and knowledge retrieval. Developed the Chrome extenstion (Manifest V3) for direct interaction with web page content. Containerised the entire application on Docker, pushed it to AWS ECR, and deployed it as a FastAPI endpoint.
 
 **Fruit Instance Segmentation — CV Perception Pipeline**
 
