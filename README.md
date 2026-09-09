@@ -1,7 +1,7 @@
 ## Hi I am Akhilesh Surampalli 👋
 AI/ML Engineer | Sensor & Telemetry Data | Generative AI | MLOps
 
-I am experienced in building Machine Learning systems that work on real hardware, with real data and not just in notebooks. My focus is on anomaly detection, spatio-temporal modelling, end end-to-end ML pipelines from raw data ingestion to live deployment.
+I am experienced in building Machine Learning systems that work on real hardware, with real data and not just in notebooks. My focus is on Generative AI, anomaly detection, spatio-temporal modelling, end end-to-end ML pipelines from raw data ingestion to live deployment.
 
 
 - 🔭 I have an M.Sc. in  Electrical Communication Engineering from the Universität Kassel, Germany and a GPA of 2.0.
@@ -19,7 +19,7 @@ End-to-end ML pipeline on a 381,000-row dataset covering the full AI lifecycle: 
 
 **Tech Stack: Python FastAPI AWS Docker MLflow MongoDB GitHub Actions**
 
-**Healthcare Q&A RAG System (LLM Hosting | Prompt Engineering | Evaluation)**
+**Healthcare Q&A ReAct Agent (LLM Hosting | Prompt Engineering | Evaluation)**
 
 Developed and Deployed a multi-source RAG agent system using LangChain, FAISS, BM25, GPT-3.5, and FastAPI, integrating hybrid retrieval, tool-based reasoning, and automated evaluation for clinical decision support.
 
